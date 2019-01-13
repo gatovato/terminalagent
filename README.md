@@ -1,6 +1,6 @@
-##Terminal Agent
+## Terminal Agent
 
-###A 2D side scrolling educational game for Android
+### A 2D side scrolling educational game for Android
 
 
 Hello fellow humans,
